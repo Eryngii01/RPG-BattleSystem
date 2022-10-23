@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d5b906c007dea4893ef0e86733e570, type: 3}
+  m_Name: Evett
+  m_EditorClassIdentifier: 
+  levelInfo:
+  - level: 1
+    obtainablePoints: 110
+  - level: 2
+    obtainablePoints: 133
+  - level: 3
+    obtainablePoints: 137
+  - level: 4
+    obtainablePoints: 117
+  - level: 5
+    obtainablePoints: 100
+  - level: 6
+    obtainablePoints: 114
+  - level: 7
+    obtainablePoints: 120
+  - level: 8
+    obtainablePoints: 126
+  - level: 9
+    obtainablePoints: 110
+  - level: 10
+    obtainablePoints: 118
+  - level: 11
+    obtainablePoints: 90
+  - level: 12
+    obtainablePoints: 101
+  - level: 13
+    obtainablePoints: 120
+  - level: 14
+    obtainablePoints: 144
+  - level: 15
+    obtainablePoints: 130
+  - level: 16
+    obtainablePoints: 107
+  - level: 17
+    obtainablePoints: 117
+  - level: 18
+    obtainablePoints: 84
+  - level: 19
+    obtainablePoints: 93
+  - level: 20
+    obtainablePoints: 135
+  - level: 21
+    obtainablePoints: 113
+  - level: 22
+    obtainablePoints: 137
+  - level: 23
+    obtainablePoints: 98
+  - level: 24
+    obtainablePoints: 134
+  - level: 25
+    obtainablePoints: 119
+  - level: 26
+    obtainablePoints: 97
+  - level: 27
+    obtainablePoints: 122
+  - level: 28
+    obtainablePoints: 137
+  - level: 29
+    obtainablePoints: 131
+  - level: 30
+    obtainablePoints: 114
+  - level: 31
+    obtainablePoints: 132
+  - level: 32
+    obtainablePoints: 142
+  - level: 33
+    obtainablePoints: 123
+  - level: 34
+    obtainablePoints: 129
+  - level: 35
+    obtainablePoints: 140
+  - level: 36
+    obtainablePoints: 128
+  - level: 37
+    obtainablePoints: 86
+  - level: 38
+    obtainablePoints: 134
+  - level: 39
+    obtainablePoints: 139
+  - level: 40
+    obtainablePoints: 135
+  - level: 41
+    obtainablePoints: 93
+  - level: 42
+    obtainablePoints: 137
+  - level: 43
+    obtainablePoints: 132
+  - level: 44
+    obtainablePoints: 134
+  - level: 45
+    obtainablePoints: 91
+  - level: 46
+    obtainablePoints: 133
+  - level: 47
+    obtainablePoints: 145
+  - level: 48
+    obtainablePoints: 89
+  - level: 49
+    obtainablePoints: 131
+  - level: 50
+    obtainablePoints: 135
+  - level: 51
+    obtainablePoints: 130
+  - level: 52
+    obtainablePoints: 113
+  - level: 53
+    obtainablePoints: 137
+  - level: 54
+    obtainablePoints: 134
+  - level: 55
+    obtainablePoints: 139
+  - level: 56
+    obtainablePoints: 115
+  - level: 57
+    obtainablePoints: 140
+  - level: 58
+    obtainablePoints: 137
+  - level: 59
+    obtainablePoints: 131
+  - level: 60
+    obtainablePoints: 138
+  - level: 61
+    obtainablePoints: 140
+  - level: 62
+    obtainablePoints: 117
+  - level: 63
+    obtainablePoints: 141
+  - level: 64
+    obtainablePoints: 136
+  - level: 65
+    obtainablePoints: 144
+  - level: 66
+    obtainablePoints: 127
+  - level: 67
+    obtainablePoints: 145
+  - level: 68
+    obtainablePoints: 134
+  - level: 69
+    obtainablePoints: 140
+  - level: 70
+    obtainablePoints: 121
+  - level: 71
+    obtainablePoints: 86
+  - level: 72
+    obtainablePoints: 118
+  - level: 73
+    obtainablePoints: 93
+  - level: 74
+    obtainablePoints: 139
+  - level: 75
+    obtainablePoints: 90
+  - level: 76
+    obtainablePoints: 93
+  - level: 77
+    obtainablePoints: 137
+  - level: 78
+    obtainablePoints: 92
+  - level: 79
+    obtainablePoints: 95
+  - level: 80
+    obtainablePoints: 116
+  - level: 81
+    obtainablePoints: 103
+  - level: 82
+    obtainablePoints: 122
+  - level: 83
+    obtainablePoints: 104
+  - level: 84
+    obtainablePoints: 132
+  - level: 85
+    obtainablePoints: 96
+  - level: 86
+    obtainablePoints: 103
+  - level: 87
+    obtainablePoints: 108
+  - level: 88
+    obtainablePoints: 105
+  - level: 89
+    obtainablePoints: 133
+  - level: 90
+    obtainablePoints: 90
+  - level: 91
+    obtainablePoints: 124
+  - level: 92
+    obtainablePoints: 84
+  - level: 93
+    obtainablePoints: 130
+  - level: 94
+    obtainablePoints: 91
+  - level: 95
+    obtainablePoints: 90
+  - level: 96
+    obtainablePoints: 120
+  - level: 97
+    obtainablePoints: 89
+  - level: 98
+    obtainablePoints: 92
+  - level: 99
+    obtainablePoints: 95

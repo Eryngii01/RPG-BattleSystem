@@ -1,0 +1,49 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Boulanje-Town_mesh_0003.obj'
+
+# Vertices (Count = 24)
+v -32 -32 0
+v -64 -32 0
+v -64 0 0
+v -32 0 0
+v -384 -32 0
+v -416 -32 0
+v -416 0 0
+v -384 0 0
+v -704 -96 0
+v -736 -96 0
+v -736 -64 0
+v -704 -64 0
+v 0 -448 0
+v -32 -448 0
+v -32 -416 0
+v 0 -416 0
+v -480 -640 0
+v -512 -640 0
+v -512 -608 0
+v -480 -608 0
+v -736 -800 0
+v -768 -800 0
+v -768 -768 0
+v -736 -768 0
+
+# Texture cooridinates (Count = 4)
+vt 0 0
+vt 1 0
+vt 1 1
+vt 0 1
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Boulanje-Town_mesh_0003
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+f 9/1/1 10/2/1 11/3/1 12/4/1
+f 13/1/1 14/2/1 15/3/1 16/4/1
+f 17/1/1 18/2/1 19/3/1 20/4/1
+f 21/1/1 22/2/1 23/3/1 24/4/1
+
